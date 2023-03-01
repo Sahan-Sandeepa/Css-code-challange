@@ -48,11 +48,12 @@ body {
     background-color: #07dfe2;
     padding: 50px;
     color: aliceblue;
-
 }
+
 p {
     margin-top: 30px;
 }
+
 #btn {
     background-color: #55f66b;
     width: 200px;
@@ -62,10 +63,19 @@ p {
     color: aliceblue;
     margin-top: 20px;
 }
+
 #btn:hover,
 #btn:active {
     background-color: #bffac7;
     transform: scale(1.1);
+}
+
+#price-container {
+
+    height: 1rem;
+    display: flex;
+    justify-content: start;
+    align-items: center;
 }
 
 #price-frequency {
@@ -76,18 +86,11 @@ p {
     font-size: 0.8rem;
     opacity: 0.8rem;
 }
+
 #price {
     font-size: 30px;
 }
 
-ul {
-    list-style-type: none;
-    font-size: 0.8rem;
-    opacity: 0.8rem;
-}
-#price {
-    font-size: 30px;
-}
 ul {
     list-style-type: none;
     font-size: 0.8rem;
