@@ -48,6 +48,7 @@ body {
     background-color: #07dfe2;
     padding: 50px;
     color: aliceblue;
+
 }
 
 p {
@@ -91,6 +92,14 @@ p {
     font-size: 30px;
 }
 
+ul {
+    list-style-type: none;
+    font-size: 0.8rem;
+    opacity: 0.8rem;
+}
+#price {
+    font-size: 30px;
+}
 ul {
     list-style-type: none;
     font-size: 0.8rem;
